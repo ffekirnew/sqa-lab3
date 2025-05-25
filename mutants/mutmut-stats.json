@@ -1,0 +1,61 @@
+{
+    "tests_by_mangled_function_name": {
+        "original.test_rover.x_test_turn_left_from_north": [
+            "src/activity_4/original/test_rover.py::test_turn_left_from_north"
+        ],
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_left": [
+            "src/activity_4/original/test_rover.py::test_turn_left_from_north",
+            "src/activity_4/original/test_rover.py::test_turn_left_from_south",
+            "src/activity_4/original/test_rover.py::test_turn_left_from_west",
+            "src/activity_4/original/test_rover.py::test_turn_left_from_east"
+        ],
+        "activity_4.original.rover.x\u01c1Rover\u01c1__init__": [
+            "src/activity_4/original/test_rover.py::test_turn_left_from_west",
+            "src/activity_4/original/test_rover.py::test_turn_right_from_north",
+            "src/activity_4/original/test_rover.py::test_turn_left_from_north",
+            "src/activity_4/original/test_rover.py::test_turn_right_from_west",
+            "src/activity_4/original/test_rover.py::test_turn_right_from_east",
+            "src/activity_4/original/test_rover.py::test_turn_left_from_south",
+            "src/activity_4/original/test_rover.py::test_turn_right_from_south",
+            "src/activity_4/original/test_rover.py::test_turn_left_from_east"
+        ],
+        "original.test_rover.x_test_turn_left_from_west": [
+            "src/activity_4/original/test_rover.py::test_turn_left_from_west"
+        ],
+        "original.test_rover.x_test_turn_left_from_south": [
+            "src/activity_4/original/test_rover.py::test_turn_left_from_south"
+        ],
+        "original.test_rover.x_test_turn_left_from_east": [
+            "src/activity_4/original/test_rover.py::test_turn_left_from_east"
+        ],
+        "original.test_rover.x_test_turn_right_from_north": [
+            "src/activity_4/original/test_rover.py::test_turn_right_from_north"
+        ],
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_right": [
+            "src/activity_4/original/test_rover.py::test_turn_right_from_west",
+            "src/activity_4/original/test_rover.py::test_turn_right_from_south",
+            "src/activity_4/original/test_rover.py::test_turn_right_from_east",
+            "src/activity_4/original/test_rover.py::test_turn_right_from_north"
+        ],
+        "original.test_rover.x_test_turn_right_from_east": [
+            "src/activity_4/original/test_rover.py::test_turn_right_from_east"
+        ],
+        "original.test_rover.x_test_turn_right_from_south": [
+            "src/activity_4/original/test_rover.py::test_turn_right_from_south"
+        ],
+        "original.test_rover.x_test_turn_right_from_west": [
+            "src/activity_4/original/test_rover.py::test_turn_right_from_west"
+        ]
+    },
+    "duration_by_test": {
+        "src/activity_4/original/test_rover.py::test_turn_left_from_north": 5.633299588225782e-05,
+        "src/activity_4/original/test_rover.py::test_turn_left_from_west": 4.337500286055729e-05,
+        "src/activity_4/original/test_rover.py::test_turn_left_from_south": 4.2166997445747256e-05,
+        "src/activity_4/original/test_rover.py::test_turn_left_from_east": 4.191700281808153e-05,
+        "src/activity_4/original/test_rover.py::test_turn_right_from_north": 3.99169948650524e-05,
+        "src/activity_4/original/test_rover.py::test_turn_right_from_east": 3.8042002415750176e-05,
+        "src/activity_4/original/test_rover.py::test_turn_right_from_south": 3.6541998269967735e-05,
+        "src/activity_4/original/test_rover.py::test_turn_right_from_west": 4.1125000279862434e-05
+    },
+    "stats_time": 0.092777
+}

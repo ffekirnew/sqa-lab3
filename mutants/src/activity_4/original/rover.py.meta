@@ -1,0 +1,20 @@
+{
+    "exit_code_by_key": {
+        "activity_4.original.rover.x\u01c1Rover\u01c1__init____mutmut_1": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_left__mutmut_1": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_left__mutmut_2": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_left__mutmut_3": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_left__mutmut_4": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_left__mutmut_5": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_left__mutmut_6": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_left__mutmut_7": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_right__mutmut_1": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_right__mutmut_2": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_right__mutmut_3": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_right__mutmut_4": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_right__mutmut_5": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_right__mutmut_6": 1,
+        "activity_4.original.rover.x\u01c1Rover\u01c1turn_right__mutmut_7": 1
+    },
+    "hash_by_function_name": {}
+}

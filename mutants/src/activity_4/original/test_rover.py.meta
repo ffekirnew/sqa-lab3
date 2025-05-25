@@ -1,0 +1,19 @@
+{
+    "exit_code_by_key": {
+        "activity_4.original.test_rover.x_test_turn_left_from_north__mutmut_1": 33,
+        "activity_4.original.test_rover.x_test_turn_left_from_west__mutmut_1": 33,
+        "activity_4.original.test_rover.x_test_turn_left_from_west__mutmut_2": 33,
+        "activity_4.original.test_rover.x_test_turn_left_from_south__mutmut_1": 33,
+        "activity_4.original.test_rover.x_test_turn_left_from_south__mutmut_2": 33,
+        "activity_4.original.test_rover.x_test_turn_left_from_east__mutmut_1": 33,
+        "activity_4.original.test_rover.x_test_turn_left_from_east__mutmut_2": 33,
+        "activity_4.original.test_rover.x_test_turn_right_from_north__mutmut_1": 33,
+        "activity_4.original.test_rover.x_test_turn_right_from_east__mutmut_1": 33,
+        "activity_4.original.test_rover.x_test_turn_right_from_east__mutmut_2": 33,
+        "activity_4.original.test_rover.x_test_turn_right_from_south__mutmut_1": 33,
+        "activity_4.original.test_rover.x_test_turn_right_from_south__mutmut_2": 33,
+        "activity_4.original.test_rover.x_test_turn_right_from_west__mutmut_1": 33,
+        "activity_4.original.test_rover.x_test_turn_right_from_west__mutmut_2": 33
+    },
+    "hash_by_function_name": {}
+}
