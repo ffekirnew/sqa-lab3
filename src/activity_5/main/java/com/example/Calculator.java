@@ -1,3 +1,5 @@
+package com.example;
+
 public class Calculator {
     public int add(int a, int b) {
         return a + b;
@@ -11,11 +13,14 @@ public class Calculator {
         return a * b;
     }
 
-    public int divide(int a, int b) {
+    public double divide(int a, int b) {
         if (b == 0) {
-            throw new IllegalArgumentException("Division by zero is not allowed.");
+            throw new IllegalArgumentException("Cannot divide by zero");
         }
-        return a / b;
+        return (double) a / b;
+    }
+
+    public boolean isEven(int number) {
+        return number % 2 == 0;
     }
 }
-
